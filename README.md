@@ -1,6 +1,14 @@
-org
+Node.js Bratislava
 ===
 
-For better organization of node.js group 
+How to RVSP ?
+====
+Use our meetup page http://www.meetup.com/nodeba/
 
-Sticker exchange -> http://i.imgur.com/JvFoyRv.jpg
+Socialize online
+====
+Talk with us https://gitter.im/nodeba
+
+Have stickers? Bring it!
+====
+So far for first sticker exchange -> http://i.imgur.com/JvFoyRv.jpg
