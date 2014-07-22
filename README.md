@@ -11,7 +11,7 @@ Fill it https://github.com/nodeba/nodeba/issues/1
 
 Socialize online
 ====
-Talk with us https://gitter.im/nodeba
+Talk with us https://gitter.im/nodeba/nodeba
 
 Have stickers? Bring it!
 ====
